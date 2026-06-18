@@ -1,9 +1,6 @@
 # Hey 👋, I'm Surya Kiran Gol
 
 <p align="left">
-  <a href="https://github.com/Suryacodeshere">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googledomains&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="https://linkedin.com/in/suryakirangol">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
