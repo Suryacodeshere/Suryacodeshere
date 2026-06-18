@@ -38,8 +38,8 @@ I am a Frontend Developer passionate about transforming ideas into interactive d
 
 ---
 
-### 📊 Github Stats
+### 📊 Most Used Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suryacodeshere&show_icons=true&theme=dark" alt="Surya's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryacodeshere&layout=compact&theme=dark" alt="Surya's Top Languages" />
 </p>
