@@ -1,42 +1,74 @@
-# Hey 👋, I'm Surya Kiran Gol
+<h1 align="center">Hi 👋, I'm Surya — Full-Stack MERN Developer</h1>
+
+<h3 align="center">Building scalable, real-time web applications with React, Node.js, and MongoDB.</h3>
+
+<br />
+
+## 🚀 About Me
+- 🔭 I’m currently focused on building robust **MERN stack** applications.
+- 🌱 I’m experienced with real-time features using **Socket.io** and integrating payment gateways like **Razorpay**.
+- 🛠️ I also have experience with **Redis** for caching/locking and **Prisma ORM** for SQL databases.
+- 👯 I’m looking to collaborate on exciting full-stack projects.
+- 💬 Ask me about **React, Express, MongoDB, Node.js, and WebSocket integrations.**
+- 📫 How to reach me: **[Your Email / LinkedIn]**
+
+<br />
+
+## 💻 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Tools, Auth & Integrations
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+<br />
+
+## 🔥 Highlighted Projects
+
+### 🎫 [TickrFlow](https://github.com/Suryacodeshere/TickrFlow)
+**Real-time event ticketing platform.** 
+- Built with **Node.js, Express, Prisma, and Redis**.
+- Implemented **Redis TTL locking** to handle concurrent ticket bookings reliably.
+- Integrated **Socket.io** for real-time updates and **Razorpay** for payment processing.
+
+### 🚗 [Tripzy](https://github.com/Suryacodeshere/Tripzy)
+**Real-Time Ride-Sharing Platform.**
+- Full **MERN** stack application (MongoDB, Express, React, Node.js).
+- Features live socket connections with **Socket.io** for real-time ride tracking.
+- Secure authentication via **JWT** & bcrypt, plus **Razorpay** integration.
+
+### 📄 [AI Resume Builder](https://github.com/Suryacodeshere/ai-resume-builder)
+**Dynamic resume generator.**
+- MERN stack architecture leveraging **Mongoose** for complex user data modeling.
+- Secure user authentication and robust REST API design.
+
+<br />
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suryacodeshere&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryacodeshere&theme=radium&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br />
+
+## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/suryakirangol">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-### Glad to see you here!
-
-I am a Frontend Developer passionate about transforming ideas into interactive digital experiences using HTML, CSS, JavaScript, and React. I focus on writing clean, maintainable code while crafting interfaces that are fast, responsive, and visually appealing.
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <!-- HTML5 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&nbsp;
-  <!-- CSS3 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;
-  <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-  <!-- TypeScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
-  <!-- React -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-  <!-- Tailwind CSS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>&nbsp;
-  <!-- Node JS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>&nbsp;
-  <!-- Git -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
-
----
-
-### 📊 Most Used Languages
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryacodeshere&layout=compact&theme=dark" alt="Surya's Top Languages" />
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
