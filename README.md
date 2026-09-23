@@ -10,7 +10,7 @@
 - 🛠️ I also have experience with **Redis** for caching/locking and **Prisma ORM** for SQL databases.
 - 👯 I’m looking to collaborate on exciting full-stack projects.
 - 💬 Ask me about **React, Express, MongoDB, Node.js, and WebSocket integrations.**
-- 📫 How to reach me: **[Your Email / LinkedIn]**
+- 📫 How to reach me: **suryakirangol7@gmail.com**
 
 <br />
 
@@ -57,18 +57,9 @@
 
 <br />
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suryacodeshere&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryacodeshere&theme=radium&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br />
-
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suryakirangol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:suryakirangol7@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
